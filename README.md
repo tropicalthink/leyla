@@ -1,4 +1,6 @@
-# Leyla
+<p align="center"><a href="https://leyla.media"><img src="images/banner.png" alt="Leyla: your cinema at home. A thousand nights, and one more." width="860"></a></p>
+
+# <img src="images/icon.png" alt="" width="36" align="center"> Leyla
 
 A media server for the films and shows you own. It runs on a computer that
 stays on, and plays on your phone, TV and browser.
