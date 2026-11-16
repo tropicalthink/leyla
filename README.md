@@ -8,6 +8,20 @@ stays on, and plays on your phone, TV and browser.
 **[leyla.media](https://leyla.media)** has the downloads, the docs and the
 pricing. Leyla is free during the open beta, until December 31, 2026.
 
+## What it looks like
+
+<p align="center">
+  <img src="images/xray.jpg" alt="X-Ray: the cast on screen, with the scenes they are in" width="48%">
+  <img src="images/subtitles.jpg" alt="Subtitles in the player" width="48%">
+</p>
+<p align="center">
+  <img src="images/drift.jpg" alt="Drift: what to watch next from a film" width="48%">
+  <img src="images/together.jpg" alt="Watch together with a code" width="48%">
+</p>
+
+Films shown are Blender Foundation open movies (Sintel, Tears of Steel,
+Spring, Cosmos Laundromat), under CC BY.
+
 ## Get it
 
 - Server: Docker, Linux packages, Windows. [Download](https://leyla.media/download)
