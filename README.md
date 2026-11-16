@@ -30,9 +30,11 @@ Spring, Cosmos Laundromat), under CC BY.
 
 ## Reporting a problem
 
-Open an issue here with what you did, what you expected and what happened.
-Leave out anything private: a server's support bundle is already free of
-names and addresses.
+Use **Write to Leyla** in the app: open Administration and choose Write to
+Leyla. It shows every word it will send before it sends it, and the answer
+comes back to the same page. A viewer's problem report has a **Send to Leyla**
+button beside it, which adds how the play went (the device, the kind of file
+and how it was played) and never the title or the file's name.
 
 ## The source we publish
 
